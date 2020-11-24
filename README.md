@@ -1,6 +1,12 @@
-[bumf57logo](https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-20-50.png)
-[bumf57logo](https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-21-37.png)
-[bumf57logo](https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-21-54.png)
+
+[bumf57logo]()
+[bumf57logo]()
+
+<p align="center"><img src="https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-20-50.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-21-37.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/anonymousproo/bumf57/blob/main/Icon/Screenshot_2020-11-24_20-21-54.png?raw=true" /></p>
+
+
 # bumf57
 
 install Automatically Kali linux all tools
