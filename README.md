@@ -9,39 +9,35 @@
 
 # bumf57
 
-install Automatically Kali linux all tools
-
-# Features
-Add Kali linux new repositories
-Install Kali linux tools
+install Automatically Kali linux all tools<br>
+Add Kali linux new repositories<br>
+Install Kali linux tools<br>
 
 # Requirements
-Python 2.7
-operating system (tested on Kali Linux Or Ubuntu)
+Python 2.7<br>
+operating system (tested on Kali Linux Or Ubuntu)<br>
 
 # Installation
 sudo su
 git clone 
+Or you can download the zip file<br>
 chmod +x 
 
 
 # Video
 
 # Usage
-Typing the number of a tool will install it
-Typing 0 will install all Kali Linux tools
-back : back
-Magic: Go to the main menu Press 1
-Exit: press 3
+Typing the number of a tool will install it.<br>
+Typing 0 install all Kali Linux tools.<br>
+back : back.<br>
+Magic: Go to the main menu Press 1<br>
+Exit: press 3<br>
 
 # Warning
-Before updating your system , please remove Old Kali-linux repositories and Add new repositories to avoid any kind of problem .
+Before updating your system , please remove Old Kali-linux repositories and Add new repositories to avoid any kind of problem.<br>
+If there is a problem, you can message us.<br>
 
 # I have some questions!
-
-
-# Donations
-
 
 
 # Contact
