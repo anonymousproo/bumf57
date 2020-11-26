@@ -74,11 +74,11 @@ won't be considered capable in the occasion any criminal allegations be brought 
 
 # Credit
 Author: Mahfuzur Rahman<br>
-Credits to : Anonymous Pro HKR Groups
-Made By anonymous pro YTB
+Credits to : Anonymous Pro HKR Groups<br>
+Made By anonymous pro YTB<br>
+https://www.youtube.com/anonymousproo<br>
 # Contact
-- Website : 
-- Youtube : 
-- Facebook : 
-- Twitter: 
-- Email : 
+Website : www.anonymousproo.com<br>
+Youtube : https://www.youtube.com/anonymousproo<br>
+Facebook: https://web.facebook.com/anonymousproo1<br>
+ 
