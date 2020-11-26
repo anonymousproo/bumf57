@@ -44,6 +44,7 @@ operating system (tested on Kali Linux Or Ubuntu)<br>
 sudo su<br>
 git clone https://github.com/anonymousproo/bumf57.git<br>
 Or you can download the zip file<br>
+cd bumf57<br>
 chmod +x bumf57.py<br>
 python bumf57.py<br>
 
