@@ -50,6 +50,9 @@ python bumf57.py<br>
 
 # Video
 
+step by step guid video <br>
+https://youtu.be/Pin1VjFGPRE
+
 # Usage
 Typing the number of a tool will install it.<br>
 Typing 0 install all Kali Linux tools.<br>
